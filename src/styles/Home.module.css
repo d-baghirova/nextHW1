@@ -30,3 +30,9 @@
   text-decoration: none;
   color: midnightblue;
 }
+
+.blogs {
+  display:flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
