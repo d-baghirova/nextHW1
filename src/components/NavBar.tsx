@@ -14,6 +14,8 @@ const NavBar = () => {
         <Link className={`${styles.link} ${roboto.className}`} href='/contacts'>Contacts</Link>
         <Link className={`${styles.link} ${roboto.className}`} href='/blog'>Blog</Link>
         <Link className={`${styles.link} ${roboto.className}`} href='/account'>Account</Link>
+        <Link className={`${styles.link} ${roboto.className}`} href='/products'>Products</Link>
+        <Link className={`${styles.link} ${roboto.className}`} href='/events'>Events</Link>
     </nav>
   )
 }
